@@ -1,0 +1,7 @@
+<apex:page controller="DemoController">
+    <script>
+        var greeting = "Hello";
+        console.log(greeting);
+    </script>
+    <h1>npm audit demo</h1>
+</apex:page>
